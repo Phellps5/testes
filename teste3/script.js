@@ -3,6 +3,7 @@ let entrada1 = document.getElementById("letra");
 let botao = document.querySelector("button");
 let ana = 0;
 let marcos = 0;
+let rogerio = 0;
 
 botao.onclick = function(){
     let palavra = entrada.value;
